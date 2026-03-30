@@ -58,7 +58,7 @@ agentic-ai-series/
 I'm Daniel D'souza — building, writing, and sharing my journey in Agentic AI.
 
 - [Substack](https://learningagenticai.substack.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/danieldsouza93/)
 
 ---
 
